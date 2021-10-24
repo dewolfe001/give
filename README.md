@@ -56,6 +56,10 @@ To get started developing on the Give platform you will need to perform the foll
 
 That's it. You're now ready to start development.
 
+### Development Notes (from dewolfe001
+
+This code will expand out shortcomings of the existing plugin (no capacity for phone numbers in donor profiles, adding last name sortation, and other improvements).
+
 ### NPM Commands
 
 Give relies on several npm commands to get you started:
